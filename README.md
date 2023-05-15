@@ -4,7 +4,7 @@
 * 🥈 2nd Place Overall
 * 🥇 Best Use of Cohere API - 1st Place
 
-![Gardenize logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/388/177/datas/original.png)
+https://github.com/jacque1ine/Ellehacks-Gardenize/assets/69442773/c852828e-8eb7-47a1-82de-5fdd689c7eb3
 
 ## 💡 Inspiration
 We live in an age where city populations are rapidly growing outwards, encroaching on forests and parks that have been inhabited by thousands of native species for millennia. This urban sprawl is incredibly harmful to the environment, displacing animals and killing plants. Native species have never been more at risk of extinction, which is why green areas full of possible life-giving resources are more essential now than ever. Transforming an old lot into a flourishing garden will not only give back to nature but will provide the community with a united project that will foster and strengthen community bonds. By tackling the “Earth” challenge, we wanted to help promote biodiversity in our urban areas in a time of increasing urbanization.
@@ -45,3 +45,6 @@ Gardenize is designed to motivate individuals into making a difference in their 
 * Mapping out different zones of a garden for different plants based on a scan created using phone cameras
 * Using the Google Maps API and Google Places API to determine a user's location for better plant suggestions
 * Finding a more extensive plant database to make the availability of attributes more reliable
+
+Devpost: https://devpost.com/software/gardenizer
+Figma:  https://www.figma.com/file/1VGzMeTQezQCXMVLR171tk/Garden-App?node-id=0%3A1
